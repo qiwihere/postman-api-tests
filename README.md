@@ -12,7 +12,7 @@ docker run \
 Результаты работы тестов находтся /output в директории запуска, а также выводится в терминал.
 
 ## Пример
-Job для Gitlab CI, результат теста будет в artefacts
+Job для Gitlab CI, результат теста будет в artifacts
 ````
 API test:
   stage: API test
